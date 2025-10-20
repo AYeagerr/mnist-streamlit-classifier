@@ -4,11 +4,7 @@
     A Streamlit App for Handwritten Digit Recognition using ML Models
     <br>
     <br>
-    <a href="https://github.com/your-username/mnist-digit-classifier">View Demo</a>
-    ·
-    <a href="https://github.com/your-username/mnist-digit-classifier/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/your-username/mnist-digit-classifier/issues">Request Feature</a>
+    <a href="[https://github.com/your-username/mnist-digit-classifier](https://mnist-app-classifier-73jpxbpec3mjqzlnxepztb.streamlit.app/)">View Demo</a>
   </p>
 </p>
 
@@ -40,18 +36,10 @@ Users can draw a digit on the canvas, and the app will predict the digit using t
 ## 👥 Collaboration
 
 ### **MedoJoker34**  
-[GitHub](https://github.com/MedoJoker34) • [LinkedIn](https://www.linkedin.com/in/mohamed-amgad-346659320)  
-- **Role**: *Front-end Development & Streamlit Integration*  
-  - Designed and implemented the user interface.
-  - Integrated machine learning models with the Streamlit frontend.
-  - Optimized performance and fixed UI/UX issues.
+[GitHub](https://github.com/MedoJoker34) •
 
 ### **mohamedAY2004**  
 [GitHub](https://github.com/mohamedAY2004)  
-- **Role**: *Model Training & Backend Development*  
-  - Trained and fine-tuned Logistic Regression, ANN, and CNN models.
-  - Achieved state-of-the-art accuracy on the MNIST dataset.
-  - Handled data preprocessing and model evaluation.
 
 ---
 
